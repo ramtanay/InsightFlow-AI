@@ -1,0 +1,101 @@
+OrderID,Date,Product,Category,Quantity,UnitPrice,Salesperson,City,PaymentMethod
+1001,02-01-2026,Laptop,Electronics,2,65000,Amit,Kolkata,UPI
+1002,03-01-2026,Mobile,Electronics,5,25000,Priya,Delhi,Credit Card
+1003,04-01-2026,Tablet,Electronics,3,18000,Ravi,Mumbai,UPI
+1004,05-01-2026,Headphones,Accessories,8,2500,Sneha,Bangalore,Debit Card
+1005,06-01-2026,Keyboard,Accessories,6,1800,Amit,Chennai,Cash
+1006,07-01-2026,Mouse,Accessories,10,900,Priya,Hyderabad,UPI
+1007,08-01-2026,Monitor,Electronics,4,15000,Ravi,Kolkata,Credit Card
+1008,09-01-2026,Printer,Electronics,2,12000,Sneha,Delhi,UPI
+1009,10-01-2026,Smartwatch,Wearables,5,5500,Amit,Mumbai,Debit Card
+1010,11-01-2026,Speaker,Accessories,7,3500,Priya,Bangalore,UPI
+1011,12-01-2026,Laptop,Electronics,3,70000,Ravi,Chennai,Credit Card
+1012,13-01-2026,Mobile,Electronics,4,28000,Sneha,Hyderabad,UPI
+1013,14-01-2026,Tablet,Electronics,6,20000,Amit,Kolkata,Cash
+1014,15-01-2026,Headphones,Accessories,10,2200,Priya,Delhi,Debit Card
+1015,16-01-2026,Keyboard,Accessories,5,2000,Ravi,Mumbai,UPI
+1016,17-01-2026,Mouse,Accessories,12,850,Sneha,Bangalore,Cash
+1017,18-01-2026,Monitor,Electronics,3,16000,Amit,Chennai,Credit Card
+1018,19-01-2026,Printer,Electronics,4,11000,Priya,Hyderabad,UPI
+1019,20-01-2026,Smartwatch,Wearables,7,6000,Ravi,Kolkata,Debit Card
+1020,21-01-2026,Speaker,Accessories,5,4000,Sneha,Delhi,Cash
+1021,22-01-2026,Laptop,Electronics,1,68000,Amit,Mumbai,UPI
+1022,23-01-2026,Mobile,Electronics,6,26000,Priya,Bangalore,Credit Card
+1023,24-01-2026,Tablet,Electronics,2,19000,Ravi,Chennai,UPI
+1024,25-01-2026,Headphones,Accessories,9,2700,Sneha,Hyderabad,Debit Card
+1025,26-01-2026,Keyboard,Accessories,8,1750,Amit,Kolkata,Cash
+1026,27-01-2026,Mouse,Accessories,15,950,Priya,Delhi,UPI
+1027,28-01-2026,Monitor,Electronics,2,14500,Ravi,Mumbai,Credit Card
+1028,29-01-2026,Printer,Electronics,3,12500,Sneha,Bangalore,UPI
+1029,30-01-2026,Smartwatch,Wearables,4,5200,Amit,Chennai,Debit Card
+1030,31-01-2026,Speaker,Accessories,6,3800,Priya,Hyderabad,Cash
+1031,01-02-2026,Laptop,Electronics,4,72000,Ravi,Kolkata,UPI
+1032,02-02-2026,Mobile,Electronics,3,30000,Sneha,Delhi,Credit Card
+1033,03-02-2026,Tablet,Electronics,5,17500,Amit,Mumbai,UPI
+1034,04-02-2026,Headphones,Accessories,7,2400,Priya,Bangalore,Debit Card
+1035,05-02-2026,Keyboard,Accessories,9,1900,Ravi,Chennai,Cash
+1036,06-02-2026,Mouse,Accessories,11,1000,Sneha,Hyderabad,UPI
+1037,07-02-2026,Monitor,Electronics,5,15500,Amit,Kolkata,Credit Card
+1038,08-02-2026,Printer,Electronics,2,11800,Priya,Delhi,UPI
+1039,09-02-2026,Smartwatch,Wearables,6,5800,Ravi,Mumbai,Debit Card
+1040,10-02-2026,Speaker,Accessories,8,3200,Sneha,Bangalore,Cash
+1041,11-02-2026,Laptop,Electronics,2,69000,Amit,Chennai,UPI
+1042,12-02-2026,Mobile,Electronics,7,25500,Priya,Hyderabad,Credit Card
+1043,13-02-2026,Tablet,Electronics,4,21000,Ravi,Kolkata,UPI
+1044,14-02-2026,Headphones,Accessories,12,2300,Sneha,Delhi,Debit Card
+1045,15-02-2026,Keyboard,Accessories,7,1850,Amit,Mumbai,Cash
+1046,16-02-2026,Mouse,Accessories,14,920,Priya,Bangalore,UPI
+1047,17-02-2026,Monitor,Electronics,3,15200,Ravi,Chennai,Credit Card
+1048,18-02-2026,Printer,Electronics,5,11500,Sneha,Hyderabad,UPI
+1049,19-02-2026,Smartwatch,Wearables,8,6100,Amit,Kolkata,Debit Card
+1050,20-02-2026,Speaker,Accessories,9,3600,Priya,Delhi,Cash
+1051,21-02-2026,Laptop,Electronics,3,67500,Ravi,Mumbai,UPI
+1052,22-02-2026,Mobile,Electronics,5,27500,Sneha,Bangalore,Credit Card
+1053,23-02-2026,Tablet,Electronics,7,18500,Amit,Chennai,UPI
+1054,24-02-2026,Headphones,Accessories,6,2600,Priya,Hyderabad,Debit Card
+1055,25-02-2026,Keyboard,Accessories,10,1950,Ravi,Kolkata,Cash
+1056,26-02-2026,Mouse,Accessories,9,880,Sneha,Delhi,UPI
+1057,27-02-2026,Monitor,Electronics,4,14800,Amit,Mumbai,Credit Card
+1058,28-02-2026,Printer,Electronics,3,12200,Priya,Bangalore,UPI
+1059,01-03-2026,Smartwatch,Wearables,5,5700,Ravi,Chennai,Debit Card
+1060,02-03-2026,Speaker,Accessories,7,3900,Sneha,Hyderabad,Cash
+1061,03-03-2026,Laptop,Electronics,5,71000,Amit,Kolkata,UPI
+1062,04-03-2026,Mobile,Electronics,4,29000,Priya,Delhi,Credit Card
+1063,05-03-2026,Tablet,Electronics,3,19500,Ravi,Mumbai,UPI
+1064,06-03-2026,Headphones,Accessories,11,2100,Sneha,Bangalore,Debit Card
+1065,07-03-2026,Keyboard,Accessories,6,2100,Amit,Chennai,Cash
+1066,08-03-2026,Mouse,Accessories,13,970,Priya,Hyderabad,UPI
+1067,09-03-2026,Monitor,Electronics,2,15800,Ravi,Kolkata,Credit Card
+1068,10-03-2026,Printer,Electronics,4,12700,Sneha,Delhi,UPI
+1069,11-03-2026,Smartwatch,Wearables,9,5900,Amit,Mumbai,Debit Card
+1070,12-03-2026,Speaker,Accessories,6,3700,Priya,Bangalore,Cash
+1071,13-03-2026,Laptop,Electronics,2,73000,Ravi,Chennai,UPI
+1072,14-03-2026,Mobile,Electronics,8,26500,Sneha,Hyderabad,Credit Card
+1073,15-03-2026,Tablet,Electronics,5,20500,Amit,Kolkata,UPI
+1074,16-03-2026,Headphones,Accessories,8,2800,Priya,Delhi,Debit Card
+1075,17-03-2026,Keyboard,Accessories,11,1800,Ravi,Mumbai,Cash
+1076,18-03-2026,Mouse,Accessories,16,890,Sneha,Bangalore,UPI
+1077,19-03-2026,Monitor,Electronics,5,16200,Amit,Chennai,Credit Card
+1078,20-03-2026,Printer,Electronics,2,11900,Priya,Hyderabad,UPI
+1079,21-03-2026,Smartwatch,Wearables,7,6250,Ravi,Kolkata,Debit Card
+1080,22-03-2026,Speaker,Accessories,10,3450,Sneha,Delhi,Cash
+1081,23-03-2026,Laptop,Electronics,4,68500,Amit,Mumbai,UPI
+1082,24-03-2026,Mobile,Electronics,6,28500,Priya,Bangalore,Credit Card
+1083,25-03-2026,Tablet,Electronics,4,19000,Ravi,Chennai,UPI
+1084,26-03-2026,Headphones,Accessories,9,2500,Sneha,Hyderabad,Debit Card
+1085,27-03-2026,Keyboard,Accessories,8,2050,Amit,Kolkata,Cash
+1086,28-03-2026,Mouse,Accessories,12,930,Priya,Delhi,UPI
+1087,29-03-2026,Monitor,Electronics,3,15500,Ravi,Mumbai,Credit Card
+1088,30-03-2026,Printer,Electronics,5,12100,Sneha,Bangalore,UPI
+1089,31-03-2026,Smartwatch,Wearables,6,6050,Amit,Chennai,Debit Card
+1090,01-04-2026,Speaker,Accessories,8,3850,Priya,Hyderabad,Cash
+1091,02-04-2026,Laptop,Electronics,3,69500,Ravi,Kolkata,UPI
+1092,03-04-2026,Mobile,Electronics,5,31000,Sneha,Delhi,Credit Card
+1093,04-04-2026,Tablet,Electronics,6,18000,Amit,Mumbai,UPI
+1094,05-04-2026,Headphones,Accessories,10,2350,Priya,Bangalore,Debit Card
+1095,06-04-2026,Keyboard,Accessories,7,1950,Ravi,Chennai,Cash
+1096,07-04-2026,Mouse,Accessories,15,910,Sneha,Hyderabad,UPI
+1097,08-04-2026,Monitor,Electronics,4,16500,Amit,Kolkata,Credit Card
+1098,09-04-2026,Printer,Electronics,3,13000,Priya,Delhi,UPI
+1099,10-04-2026,Smartwatch,Wearables,8,6400,Ravi,Mumbai,Debit Card
+1100,11-04-2026,Speaker,Accessories,9,4100,Sneha,Bangalore,Cash
