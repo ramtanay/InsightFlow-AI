@@ -448,6 +448,17 @@ AOV = Total Revenue / Total Orders
 
 ---
 
+# 📷 Screenshots
+
+
+![alt text](screenshots/1.png)
+
+![alt text](screenshots/2.png)
+
+![alt text](screenshots/3.png)
+
+---
+
 # 🔐 Security Note
 
 Do not hard-code your Gemini API key inside `app.py`.
