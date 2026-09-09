@@ -146,6 +146,7 @@ After applying filters, users can download the filtered dataset as a CSV file.
 ```text
 AI-Sales-Analytics/
 │
+├── LICENCE
 ├── app.py
 ├── sales_data.csv
 ├── requirements.txt
