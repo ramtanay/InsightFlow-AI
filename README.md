@@ -596,9 +596,9 @@ This project was built using **Python, Streamlit, Pandas, Plotly, PandasAI, and 
 
 ### 🔗 Connect With Me
 
-* 💼 LinkedIn: **[Ramtanay Chakraborty](#)**
-* 🐙 GitHub: **[Ramtanay Chakraborty](#)**
-* 📧 Email: **[ramtanayc@gmail.com](#)**
+* 💼 LinkedIn: **[Ramtanay Chakraborty](https://www.linkedin.com/in/ramtanay)**
+* 🐙 GitHub: **[Ramtanay Chakraborty](https://github.com/ramtanay)**
+* 📧 Email: **[ramtanayc@gmail.com](ramtanayc@gmail.com)**
 
 ---
 
